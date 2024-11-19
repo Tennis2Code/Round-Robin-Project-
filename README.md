@@ -24,8 +24,6 @@ Follow these steps to run the Tennis Round Robin Tournament:
 
 ## Features & Enhancements
 - **Match Scheduling Algorithm**: Automatically handles scheduling of all players in a round-robin format.
-- **Graphical User Interface (Optional)**: An optional GUI to visually display the player list, match schedules, and results.
-- **Export Functionality**: Allows tournament results to be exported to a CSV or PDF for sharing and printing.
 - **Handling of Multiple Tournaments**: The system can manage and track multiple tournaments at the same time.
 
 ## Future Enhancements
